@@ -1,3 +1,10 @@
+// Author: Rajiur Rahman ( rajiurrahman.bd@gmail.com )
+// Department of Computer Science, Wayne State University
+
+// For installation and running of the codes, please find the appropriate tutorial from the following link
+//      http://dmkd.cs.wayne.edu/TUTORIAL/Bigdata/Codes/
+
+
 package org.sparkexample;
 
 import org.apache.spark.SparkConf;
